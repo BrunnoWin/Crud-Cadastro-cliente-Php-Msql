@@ -1,4 +1,5 @@
-# Crud-Cadastro-cliente-Php-Mysql
+# Crud-Cadastro-cliente-Php-MySQL
+
 Crud cadastro de cliente, consulta, deletar, busca por nome, telefone e data feito em Php e Msql.
 
 
