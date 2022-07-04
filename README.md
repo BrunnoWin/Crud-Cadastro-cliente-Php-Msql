@@ -1,6 +1,6 @@
 # Crud-Cadastro-cliente-Php-MySQL-Bootstrap
 
-Crud cadastro de cliente, consulta, deletar, busca por nome, telefone e data feito em Php e Msql.
+Crud cadastro de cliente, consulta, deletar, busca por nome, telefone e data feito em Php e Msql usando Bootstrap
 
 
 #Tela inicial consulta e pesquisa cliente browse-users.php
