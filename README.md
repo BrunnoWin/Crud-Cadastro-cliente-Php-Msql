@@ -10,5 +10,8 @@ Crud cadastro de cliente, consulta, deletar, busca por nome, telefone e data fei
 
 #Tela editar cliente edit-users.php
 ![image](https://user-images.githubusercontent.com/99026853/177224310-c817cda4-956c-4526-a2c5-67e696ffe5ab.png)
+#Banco de dados
+![image](https://user-images.githubusercontent.com/99026853/177224567-f4ab945b-0c9c-4874-8f3e-ffd7360fe378.png)
+
 
 
